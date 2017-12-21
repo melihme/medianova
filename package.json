@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "keywords": [
+    "cdn",
+    "medianova"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "Melih Taşdizen",
+      "email": "melih.tasdizen@segmentify.com"
+    }
+  ],
+  "name": "medianova",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melihme/medianova.git"
+  },
+  "version": "0.0.1"
+}
