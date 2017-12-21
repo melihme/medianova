@@ -65,9 +65,9 @@ Medianova.prototype.purge_add = function (file_list, callback) {
 
 Medianova.prototype._authInfo = function() {
   return {
-      'userKey': this.userKey,
-      'userSecret': this.userSecret,
-      'zoneId': this.zoneId
+      'user_key': this.userKey,
+      'user_secret': this.userSecret,
+      'zone_id': this.zoneId
   }
 
 };
